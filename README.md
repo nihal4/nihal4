@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Nihal Ahmed, a passionate Deep Learning and Machine Learning enthusiast with a knack for Natural Language Processing (NLP) projects. Currently diving deep into the world of AI and constantly exploring its applications in various domains.
+Hey there! I'm Nihal, a passionate Deep Learning and Machine Learning enthusiast with a knack for Natural Language Processing (NLP) projects. Currently diving deep into the world of AI and constantly exploring its applications in various domains.
 
 
 ## 🌐 Socials:
